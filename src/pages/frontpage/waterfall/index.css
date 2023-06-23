@@ -1,0 +1,15 @@
+.i-waterfall-card-appear {
+  opacity: 0.01;
+}
+.i-waterfall-card-appear-active {
+  opacity: 1;
+  transition: opacity 1000ms ease;
+}
+.i-waterfall-card-enter {
+  opacity: 0.01;
+}
+.i-waterfall-card-enter-active {
+  opacity: 1;
+  transition: opacity 1000ms ease;
+}
+/*# sourceMappingURL=index.css.map */
